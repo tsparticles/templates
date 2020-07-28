@@ -11,13 +11,14 @@ The library has also official components for the most used JavaScript frameworks
 ## Vanilla Javascript / Plain HTML (`tsparticles`)
 
 - [tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/main)
-- [tsParticles official CodePen collection](https://codepen.io/collection/DPOage)
-- [tsParticles official Authentication template](https://github.com/tsparticles/auth-template)
+- [tsParticles CodePen samples collection](https://codepen.io/collection/DPOage)
+- [tsParticles Authentication template](https://github.com/tsparticles/auth-template)
 
 ## React JS (`react-tsparticles`)
 
 - [React tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/react)
 - [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f)
+- [React tsParticles Authentication template](https://github.com/tsparticles/react-auth-template)
 
 ## Vue JS (`particles.vue`)
 
