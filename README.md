@@ -24,6 +24,7 @@ The library has also official components for the most used JavaScript frameworks
 
 - [Vue tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/vue)
 - [Vue tsParticles CodeSandbox sample](https://codesandbox.io/s/particlesvue-20-kwsl6)
+- [Vue tsParticles Authentication template](https://github.com/tsparticles/vue-auth-template)
 
 ## Angular (`ng-particles`)
 
