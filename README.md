@@ -30,6 +30,7 @@ The library has also official components for the most used JavaScript frameworks
 
 - [Angular tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/angular)
 - [Angular tsParticles CodeSandbox sample](https://codesandbox.io/s/ng-particles-2-vfxhi)
+- [Angular tsParticles Authentication template](https://github.com/tsparticles/angular-auth-template)
 
 ## Svelte (`svelte-particles`)
 
