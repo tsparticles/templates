@@ -36,6 +36,7 @@ The library has also official components for the most used JavaScript frameworks
 
 - [Svelte tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/svelte)
 - [Svelte tsParticles CodeSandbox sample](https://codesandbox.io/s/svelte-particles-h6lb5)
+- [Svelte tsParticles Authentication template](https://github.com/tsparticles/svelte-auth-template)
 
 ## jQuery (`jquery-particles`)
 
