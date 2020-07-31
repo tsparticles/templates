@@ -54,3 +54,9 @@ The library has also official components for the most used JavaScript frameworks
 
 - [Inferno tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/inferno)
 - [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f) *It's the `React` sample but if you use `Inferno` you can just switch the particles library to `inferno-particles` to have it working, the syntax is the same*
+
+## Some previews
+
+[![Auth](https://raw.githubusercontent.com/tsparticles/auth-template/master/__screenshots/login.png)](https://github.com/tsparticles/auth-template)
+
+[![Landing](https://raw.githubusercontent.com/tsparticles/landing-page-template/master/__screenshots/landing.png)](https://github.com/tsparticles/landing-page-template)
