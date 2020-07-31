@@ -13,6 +13,7 @@ The library has also official components for the most used JavaScript frameworks
 - [tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/main)
 - [tsParticles CodePen samples collection](https://codepen.io/collection/DPOage)
 - [tsParticles Authentication template](https://github.com/tsparticles/auth-template)
+- [tsParticles Developer landing page template](https://github.com/tsparticles/landing-page-template)
 
 ## React JS (`react-tsparticles`)
 
