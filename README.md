@@ -18,9 +18,12 @@ The library has also official components for the most used JavaScript frameworks
 ## React JS (`react-tsparticles`)
 
 - [React tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/react)
+- [React tsParticles Create React App template](https://github.com/matteobruni/tsparticles/tree/master/templates/react)
+- [React tsParticles TypeScript Create React App template](https://github.com/matteobruni/tsparticles/tree/master/templates/react-ts)
 - [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f)
 - [React tsParticles Authentication template](https://github.com/tsparticles/react-auth-template)
 - [React tsParticles Landing Page template](https://github.com/tsparticles/react-landing-page-template)
+- [Gatsby tsParticles Landing Page Starter](https://github.com/tsparticles/gatsby-landing-page-starter)
 
 ## Vue JS (`particles.vue`)
 
