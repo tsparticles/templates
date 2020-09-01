@@ -24,6 +24,7 @@ The library has also official components for the most used JavaScript frameworks
 - [React tsParticles Authentication template](https://github.com/tsparticles/react-auth-template)
 - [React tsParticles Landing Page template](https://github.com/tsparticles/react-landing-page-template)
 - [Gatsby tsParticles Landing Page Starter](https://github.com/tsparticles/gatsby-landing-page-starter)
+- [React Resume Template by kien-dang](https://github.com/kien-dang/react-resume-template)
 
 ## Vue JS (`particles.vue`)
 
