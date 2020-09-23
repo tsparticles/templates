@@ -31,11 +31,16 @@ The library has also official components for the most used JavaScript frameworks
 - [React Portfolio by RajceP](https://github.com/RajceP/portfolio)
 - [HotCode Website](https://github.com/gmatthewsfeuer/HotCode)
 
-## Vue JS (`particles.vue`)
+## Vue JS 2.x (`particles.vue`)
 
 - [Vue tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/vue)
 - [Vue tsParticles CodeSandbox sample](https://codesandbox.io/s/particlesvue-20-kwsl6)
 - [Vue tsParticles Authentication template](https://github.com/tsparticles/vue-auth-template)
+
+## Vue JS 3.x (`particles.vue`)
+
+- [Vue tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/vue3)
+- [Vue tsParticles CodeSandbox sample](https://codesandbox.io/s/particlesvue3-68246)
 
 ## Angular (`ng-particles`)
 
