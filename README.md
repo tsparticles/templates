@@ -15,6 +15,7 @@ The library has also official components for the most used JavaScript frameworks
 - [tsParticles Authentication template](https://github.com/tsparticles/auth-template)
 - [tsParticles Developer landing page template](https://github.com/tsparticles/landing-page-template)
 - [TypeDoc Particles Theme](https://github.com/tsparticles/typedoc-particles-theme)
+- [Bonn333 Portfolio](https://github.com/Bonn333/personal-website)
 
 ## React JS (`react-tsparticles`)
 
@@ -26,6 +27,8 @@ The library has also official components for the most used JavaScript frameworks
 - [React tsParticles Landing Page template](https://github.com/tsparticles/react-landing-page-template)
 - [Gatsby tsParticles Landing Page Starter](https://github.com/tsparticles/gatsby-landing-page-starter)
 - [React Resume Template by kien-dang](https://github.com/kien-dang/react-resume-template)
+- [React Template by ash-xyz](https://github.com/ash-xyz/webpage)
+- [HotCode Website](https://github.com/gmatthewsfeuer/HotCode)
 
 ## Vue JS (`particles.vue`)
 
