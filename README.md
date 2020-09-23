@@ -1,6 +1,6 @@
 [![banner](https://cdn.matteobruni.it/images/particles/banner2.png)](https://particles.matteobruni.it)
 
-# tsParticles Website Templates Collection
+# tsParticles Websites and Templates Collection
 
 [tsParticles](https://github.com/matteobruni/tsparticles) is a lightweight JavaScript/TypeScript library for creating easily particles animations in your websites
 
