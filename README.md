@@ -28,6 +28,7 @@ The library has also official components for the most used JavaScript frameworks
 - [Gatsby tsParticles Landing Page Starter](https://github.com/tsparticles/gatsby-landing-page-starter)
 - [React Resume Template by kien-dang](https://github.com/kien-dang/react-resume-template)
 - [React Template by ash-xyz](https://github.com/ash-xyz/webpage)
+- [React Portfolio by RajceP](https://github.com/RajceP/portfolio)
 - [HotCode Website](https://github.com/gmatthewsfeuer/HotCode)
 
 ## Vue JS (`particles.vue`)
