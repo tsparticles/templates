@@ -30,6 +30,7 @@ The library has also official components for the most used JavaScript frameworks
 - [React Template by ash-xyz](https://github.com/ash-xyz/webpage)
 - [React Portfolio by RajceP](https://github.com/RajceP/portfolio)
 - [HotCode Website](https://github.com/gmatthewsfeuer/HotCode)
+- [React Portfolio Page by th1rst](https://github.com/th1rst/personal-portfolio-page)
 
 ## Vue JS 2.x (`particles.vue`)
 
