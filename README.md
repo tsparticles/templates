@@ -66,9 +66,9 @@ __If you have created a website with _tsParticles_ and you want to share your te
 ## Preact JS (`preact-particles`)
 
 - [Preact tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/preact)
-- [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f) _It's the `React` sample but if you use `Preact` you can just switch the particles library to `preact-particles` to have it working, the syntax is the same_
+- [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f) - _It's the `React` sample but if you use `Preact` you can just switch the particles library to `preact-particles` to have it working, the syntax is the same_
 
 ## Inferno JS (`inferno-particles`)
 
 - [Inferno tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/inferno)
-- [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f) _It's the `React` sample but if you use `Inferno` you can just switch the particles library to `inferno-particles` to have it working, the syntax is the same_
+- [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f) - _It's the `React` sample but if you use `Inferno` you can just switch the particles library to `inferno-particles` to have it working, the syntax is the same_
