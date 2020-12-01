@@ -10,7 +10,7 @@ The library has also official components for the most used JavaScript frameworks
 
 **If you have created a website with _tsParticles_ and you want to share your template feel free to add a pull request to add it below**
 
-## Vanilla Javascript / Plain HTML (`tsparticles`)
+## Vanilla JavaScript / Plain HTML (`tsparticles`)
 
 - [tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/main)
 - [tsParticles CodePen samples collection](https://codepen.io/collection/DPOage)
