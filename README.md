@@ -8,7 +8,7 @@
 
 The library has also official components for the most used JavaScript frameworks that you can see below.
 
-**If you have created a website with _tsParticles_ and you want to share your template feel free to add a pull request to add it below**
+__If you have created a website with _tsParticles_ and you want to share your template feel free to add a pull request to add it below__
 
 ## Vanilla JavaScript / Plain HTML (`tsparticles`)
 
