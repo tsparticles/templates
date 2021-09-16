@@ -15,6 +15,7 @@ __If you have created a website with _tsParticles_ and you want to share your te
 - [tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/main)
 - [tsParticles CodePen samples collection](https://codepen.io/collection/DPOage)
 - [tsParticles Authentication template](https://github.com/tsparticles/auth-template)
+- [tsParticles Glassmorphism Authentication template](https://github.com/tsparticles/glass-auth-template)
 - [tsParticles Developer landing page template](https://github.com/tsparticles/landing-page-template)
 - [tsParticles 404 templates](https://github.com/tsparticles/404-templates)
 - [TypeDoc Particles Theme](https://github.com/tsparticles/typedoc-particles-theme)
