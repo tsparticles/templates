@@ -1,4 +1,4 @@
-[![banner](https://cdn.matteobruni.it/images/particles/banner2.png)](https://particles.matteobruni.it)
+[![banner](https://particles.js.org/images/banner2.png)](https://particles.matteobruni.it)
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
