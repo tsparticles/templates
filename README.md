@@ -12,7 +12,7 @@ __If you have created a website with _tsParticles_ and you want to share your te
 
 ## Vanilla JavaScript / Plain HTML (`tsparticles`)
 
-- [tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/main)
+- [tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vanilla)
 - [tsParticles CodePen samples collection](https://codepen.io/collection/DPOage)
 - [tsParticles Authentication template](https://github.com/tsparticles/auth-template)
 - [tsParticles Glassmorphism Authentication template](https://github.com/tsparticles/glass-auth-template)
@@ -23,9 +23,9 @@ __If you have created a website with _tsParticles_ and you want to share your te
 
 ## React JS (`react-tsparticles`)
 
-- [React tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/react)
-- [React tsParticles Create React App template](https://github.com/matteobruni/tsparticles/tree/master/templates/react)
-- [React tsParticles TypeScript Create React App template](https://github.com/matteobruni/tsparticles/tree/master/templates/react-ts)
+- [React tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/react)
+- [React tsParticles Create React App template](https://github.com/matteobruni/tsparticles/tree/main/templates/react)
+- [React tsParticles TypeScript Create React App template](https://github.com/matteobruni/tsparticles/tree/main/templates/react-ts)
 - [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f)
 - [React tsParticles Authentication template](https://github.com/tsparticles/react-auth-template)
 - [React tsParticles Landing Page template](https://github.com/tsparticles/react-landing-page-template)
@@ -39,39 +39,39 @@ __If you have created a website with _tsParticles_ and you want to share your te
 
 ## Vue JS 2.x (`particles.vue`)
 
-- [Vue 2.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/vue)
+- [Vue 2.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vue)
 - [Vue 2.x tsParticles CodeSandbox sample](https://codesandbox.io/s/particlesvue-20-kwsl6)
 - [Vue 2.x tsParticles Authentication template](https://github.com/tsparticles/vue-auth-template)
 
 ## Vue JS 3.x (`particles.vue3`)
 
-- [Vue 3.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/vue3)
+- [Vue 3.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vue3)
 - [Vue 3.x tsParticles CodeSandbox sample](https://codesandbox.io/s/particlesvue3-68246)
 - [Vue 3.x tsParticles Authentication template](https://github.com/tsparticles/vue3-auth-template)
 
 ## Angular (`ng-particles`)
 
-- [Angular tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/angular)
+- [Angular tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/angular)
 - [Angular tsParticles CodeSandbox sample](https://codesandbox.io/s/ng-particles-2-vfxhi)
 - [Angular tsParticles Authentication template](https://github.com/tsparticles/angular-auth-template)
 
 ## Svelte (`svelte-particles`)
 
-- [Svelte tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/svelte)
+- [Svelte tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/svelte)
 - [Svelte tsParticles CodeSandbox sample](https://codesandbox.io/s/svelte-particles-h6lb5)
 - [Svelte tsParticles Authentication template](https://github.com/tsparticles/svelte-auth-template)
 
 ## jQuery (`jquery-particles`)
 
-- [jQuery tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/jquery)
+- [jQuery tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/jquery)
 - [jQuery tsParticles CodePen sample](https://codepen.io/matteobruni/pen/dyoKePb)
 
 ## Preact JS (`preact-particles`)
 
-- [Preact tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/preact)
+- [Preact tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/preact)
 - [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f) - _It's the `React` sample but if you use `Preact` you can just switch the particles library to `preact-particles` to have it working, the syntax is the same_
 
 ## Inferno JS (`inferno-particles`)
 
-- [Inferno tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/master/demo/inferno)
+- [Inferno tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/inferno)
 - [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f) - _It's the `React` sample but if you use `Inferno` you can just switch the particles library to `inferno-particles` to have it working, the syntax is the same_
