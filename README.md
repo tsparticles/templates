@@ -4,11 +4,11 @@
 
 # tsParticles Websites and Templates Collection
 
-[tsParticles](https://github.com/matteobruni/tsparticles) is a lightweight JavaScript/TypeScript library for creating easily particles animations in your websites
+[tsParticles](https://github.com/matteobruni/tsparticles) is a lightweight JavaScript/TypeScript library for creating easily particles animations in your websites.
 
 The library has also official components for the most used JavaScript frameworks that you can see below.
 
-__If you have created a website with _tsParticles_ and you want to share your template feel free to add a pull request to add it below__
+__If you have created a website with _tsParticles_ and you want to share your template feel free to add a pull request to add it below.__
 
 ## Vanilla JavaScript / Plain HTML (`tsparticles`)
 
