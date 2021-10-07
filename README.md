@@ -35,6 +35,7 @@ __If you have created a website with _tsParticles_ and you want to share your te
 - [React Portfolio by RajceP](https://github.com/RajceP/portfolio)
 - [HotCode Website](https://github.com/gmatthewsfeuer/HotCode)
 - [React Portfolio Page by th1rst](https://github.com/th1rst/personal-portfolio-page)
+- [React Template with Axios, Husky, ESLint, Prettier, React-Cookie, React-Router-DOM](https://github.com/aneeshpanda/my-react-template)
 - [Tailwind Fancy Tabs](https://github.com/mattrothenberg/tailwind-fancy-tab)
 
 ## Vue JS 2.x (`particles.vue`)
