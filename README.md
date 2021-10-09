@@ -28,6 +28,7 @@ __If you have created a website with _tsParticles_ and you want to share your te
 - [React tsParticles TypeScript Create React App template](https://github.com/matteobruni/tsparticles/tree/main/templates/react-ts)
 - [React tsParticles CodeSandbox sample](https://codesandbox.io/s/react-tsparticles-dw43f)
 - [React tsParticles Authentication template](https://github.com/tsparticles/react-auth-template)
+- [React tsParticles Glassmorphism Authentication template](https://github.com/tsparticles/react-glass-auth-template)
 - [React tsParticles Landing Page template](https://github.com/tsparticles/react-landing-page-template)
 - [Gatsby tsParticles Landing Page Starter](https://github.com/tsparticles/gatsby-landing-page-starter)
 - [React Resume Template by kien-dang](https://github.com/kien-dang/react-resume-template)
