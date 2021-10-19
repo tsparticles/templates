@@ -52,7 +52,7 @@ __If you have created a website with _tsParticles_ and you want to share your te
 - [Vue 3.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vue3)
 - [Vue 3.x tsParticles CodeSandbox sample](https://codesandbox.io/s/particlesvue3-68246)
 - [Vue 3.x tsParticles Authentication template](https://github.com/tsparticles/vue3-auth-template)
-- [Vue 3.x txParticles Personal Website](https://github.com/vishal-kumar-saw/tsParticles-Personal-Website)
+- [Vue 3.x tsParticles Personal Website](https://github.com/vishal-kumar-saw/tsParticles-Personal-Website)
 
 ## Angular (`ng-particles`)
 
