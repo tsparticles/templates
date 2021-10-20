@@ -20,7 +20,7 @@ __If you have created a website with _tsParticles_ and you want to share your te
 - [tsParticles 404 templates](https://github.com/tsparticles/404-templates)
 - [TypeDoc Particles Theme](https://github.com/tsparticles/typedoc-particles-theme)
 - [Bonn333 Portfolio](https://github.com/Bonn333/personal-website)
-- [tsParticles Portfolio Website](https://github.com/vishal-kumar-saw/tsParticles-Portfolio)
+- [tsParticles Portfolio Website by vishal-kumar-saw](https://github.com/vishal-kumar-saw/tsParticles-Portfolio)
 
 ## React JS (`react-tsparticles`)
 
@@ -40,7 +40,7 @@ __If you have created a website with _tsParticles_ and you want to share your te
 - [Tailwind Fancy Tabs](https://github.com/mattrothenberg/tailwind-fancy-tab)
 - [React Landing Page by AhsanEhtesham](https://github.com/Ahsan-Ehtesham/React-landing-page)
 - [React Notes Keeper App](https://github.com/iMohitPant/keeper)
-- [React Landing Page](https://github.com/FaizaAbdullah-code/React-landing-page)
+- [React Landing Page by FaizaAbdullah-code](https://github.com/FaizaAbdullah-code/React-landing-page)
 
 ## Vue JS 2.x (`particles.vue`)
 
