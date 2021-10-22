@@ -20,8 +20,8 @@ __If you have created a website with _tsParticles_ and you want to share your te
 - [tsParticles 404 templates](https://github.com/tsparticles/404-templates)
 - [TypeDoc Particles Theme](https://github.com/tsparticles/typedoc-particles-theme)
 - [Bonn333 Portfolio](https://github.com/Bonn333/personal-website)
-- [tsParticles Portfolio Website](https://github.com/vishal-kumar-saw/tsParticles-Portfolio)
-- [tsParticles Portfolio Website](https://github.com/mrvishalsharma/portfolio-website)
+- [tsParticles Portfolio Website by vishal-kumar-saw](https://github.com/vishal-kumar-saw/tsParticles-Portfolio)
+- [tsParticles Portfolio Website by mrvishalsharma](https://github.com/mrvishalsharma/portfolio-website)
 
 ## React JS (`react-tsparticles`)
 
@@ -41,6 +41,7 @@ __If you have created a website with _tsParticles_ and you want to share your te
 - [Tailwind Fancy Tabs](https://github.com/mattrothenberg/tailwind-fancy-tab)
 - [React Landing Page by AhsanEhtesham](https://github.com/Ahsan-Ehtesham/React-landing-page)
 - [React Notes Keeper App](https://github.com/iMohitPant/keeper)
+- [React Landing Page by FaizaAbdullah-code](https://github.com/FaizaAbdullah-code/React-landing-page)
 
 ## Vue JS 2.x (`particles.vue`)
 
@@ -53,6 +54,7 @@ __If you have created a website with _tsParticles_ and you want to share your te
 - [Vue 3.x tsParticles demo project](https://github.com/matteobruni/tsparticles/tree/main/demo/vue3)
 - [Vue 3.x tsParticles CodeSandbox sample](https://codesandbox.io/s/particlesvue3-68246)
 - [Vue 3.x tsParticles Authentication template](https://github.com/tsparticles/vue3-auth-template)
+- [Vue 3.x tsParticles Personal Portfolio Website by vishal-kumar-saw](https://github.com/vishal-kumar-saw/Personal-Website)
 
 ## Angular (`ng-particles`)
 
